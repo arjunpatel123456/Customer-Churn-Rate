@@ -52,7 +52,7 @@ This dataset contains **5,000 customers** with information like:
 - **Half of the customers in this dataset have churned.**  
 - Losing this many customers means **huge revenue losses**.  
 
-📊 **[Churn Distribution Graph](images/churn_distribution.png)**  
+📊 ![Churn Distribution](images/churn_distribution.png)  
 
 ---  
 
@@ -61,7 +61,7 @@ This dataset contains **5,000 customers** with information like:
 - **Premium Plan** has the **lowest churn rate** (~35%).  
 - Customers on more **expensive plans are more loyal**.  
 
-📊 **[Churn by Subscription Type](images/churn_by_subscription.png)**  
+📊 ![Churn by Subscription Type](images/churn_by_subscription.png)  
 
 💡 **Business Fix:**  
 ✔ **Offer discounts or loyalty perks** to Basic Plan users to encourage them to upgrade.  
@@ -72,7 +72,7 @@ This dataset contains **5,000 customers** with information like:
 - Customers who pay via **PayPal or Crypto** have a **higher churn rate (~60%)**.  
 - **Credit Card users** have the **lowest churn rate (~40%)**.  
 
-📊 **[Churn by Payment Method](images/churn_by_payment.png)**  
+📊 ![Churn by Payment Method](images/churn_by_payment.png)  
 
 💡 **Business Fix:**  
 ✔ Offer **discounts for credit card payments** or make **auto-pay easier** for PayPal & Crypto users.  
@@ -83,7 +83,7 @@ This dataset contains **5,000 customers** with information like:
 - Customers who **called support more than 4 times** had a **60%+ churn rate**.  
 - This means **support issues are frustrating customers, causing them to leave**.  
 
-📊 **[Churn by Support Calls](images/churn_by_support_calls.png)**  
+📊 ![Churn by Support Calls](images/churn_by_support_calls.png)  
 
 💡 **Business Fix:**  
 ✔ **Improve customer service training** to resolve issues faster.  
@@ -168,3 +168,4 @@ Customer churn is a **huge challenge**, but **the right insights** can turn thin
 
 ### 📬 Contact  
 Have feedback, suggestions, or want to collaborate? **Reach out via GitHub!**  
+
